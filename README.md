@@ -40,29 +40,7 @@ TrainANDtest/
 
 ## 🚀 Quick Start
 
-### Option 1: From Root Directory (Recommended)
-```bash
-cd "C:\Users\Vinay V\OneDrive\Desktop\My Work Space\TrainANDtest"
-python app.py
-```
 
-### Option 2: Using Quick Start Script
-```bash
-cd "C:\Users\Vinay V\OneDrive\Desktop\My Work Space\TrainANDtest"
-python quickstart.py
-```
-
-### Option 3: From FakeAVCeleb Directory
-```bash
-cd "C:\Users\Vinay V\OneDrive\Desktop\My Work Space\TrainANDtest\FakeAVCeleb"
-python app.py
-```
-
-## 🌐 Access the Application
-Once the server is running, open your browser and navigate to:
-```
-http://localhost:5000
-```
 
 ## 📊 Dataset Information
 
