@@ -44,9 +44,7 @@ TrainANDtest/
 
 ## 📊 Dataset Information
 
-### Combined Dataset (13,179 samples)
-- **UrbanSound8K**: 8,732 environmental sound samples
-- **AI Audio**: 4,447 generated speech samples
+### Combined Dataset 3,10,000 
 
 ### Audio Classes (20+)
 #### Environmental Sounds
