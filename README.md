@@ -46,19 +46,6 @@ TrainANDtest/
 
 ### Combined Dataset 3,10,000 
 
-### Audio Classes (20+)
-#### Environmental Sounds
-1. Air Conditioner
-2. Car Horn
-3. Children Playing
-4. Dog Bark
-5. Drilling
-6. Engine Idling
-7. Gun Shot
-8. Jackhammer
-9. Siren
-10. Street Music
-
 #### AI-Generated Speech
 1. AI Speech - FlashSpeech
 2. AI Speech - NaturalSpeech3
@@ -69,6 +56,10 @@ TrainANDtest/
 7. AI Speech - VALLE
 8. AI Speech - VoiceBox
 9. AI Speech - xTTS
+### Elevenlabs
+1.humanized Voice
+2.AI voice of different genre
+
 
 ## 🤖 Model Details
 
